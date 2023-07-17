@@ -1,0 +1,32 @@
+[
+	{
+		"price":5,
+		"pos_str":"",
+		"count":100
+	},
+	{
+		"price":10,
+		"pos_str":"",
+		"count":100
+	},
+	{
+		"price":20,
+		"pos_str":"",
+		"count":100
+	},
+	{
+		"price":5,
+		"pos_str":"คงเหลือ",
+		"count":25
+	},
+	{
+		"price":10,
+		"pos_str":"คงเหลือ",
+		"count":50
+	},
+	{
+		"price":20,
+		"pos_str":"คงเหลือ",
+		"count":30
+	}
+]
